@@ -6,7 +6,6 @@ import PropsComponent from './course/cardcomponent';
 function App() {
   return (
     <div className="w3-container w3-center">
-      {/* Tambahkan judul showroom di sini */}
       <h1 className="w3-padding w3-xlarge">Showroom Fryxman</h1>
       <hr />
       <div style={{ display: 'flex', gap: '20px', justifyContent: 'center', padding: '20px', flexWrap: 'wrap' }}>
